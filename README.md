@@ -11,15 +11,15 @@
     <br>
 <a href="https://github.com/kingmalvn/MIKU-MD/fork"><img title="QUEEN-MIKU-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-![forks](https://img.shields.io/github/forks/shashikalanipuni05/mmmmmm?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/kingmalvn/MIKU-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/shashikalanipuni05/mmmmmm?style=social)
+![stars](https://img.shields.io/github/stars/kingmalvn/MIKU-MD?style=social)
 
 
 
 
 <br>
-• Sri Lanka Best and fast whatsapp bot
+• Best and fast whatsapp bot
 <br>
 
   <p align="center">  
@@ -36,7 +36,7 @@
 ---
 ## Deploy to HEROKU ↓
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://queen-miku"kingmalvn/MIKU-MD")
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MIKU-MD)
 
 ## Deploy to RENDER ↓
 
@@ -50,7 +50,7 @@
 
 ---
 
-`UPLOAD creds.js FILE TO Session FOLDER👆`
+`UPLOAD creds.js FILE TO SESSION FOLDER👆`
 ---
 
 
@@ -84,7 +84,7 @@ npm install
 npm start
 ```
 ---
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+Malvin+TECH..)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+Malvin+King..)](https://git.io/typing-svg)
    
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=1.+Fork+This+Repo)](https://github.com/nipuna15)
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=2.+Scan+QR+Code+Or+Pair+code)](https://github.com/nipuna15)
@@ -138,12 +138,12 @@ jobs:
 <a href="https://wa.me/message/263780934873"><img src="https://c.top4top.io/p_3235wgt8w1.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
 ---
 ### CREATED BY:
-1. ### Malvin King
+1. ### Malvin King 
 
 ## MY YT CHANNEL
 
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@malvintech2) 
  
  ### WHATSAPP CHANNLE 👇
- "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"
+ "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv"
 
