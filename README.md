@@ -5,7 +5,9 @@
 ---
 //========DO-NOT-CHANGE-ALIVE-MSG========
 ---
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+QUEEN+KENZI+MD+v1+WHATSAPP+BOT;MADE+BY+DARKNEONCYBERS+TEAM)](https://git.io/typing-svg)
+
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MIKU-MD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>)](https://git.io/typing-svg)
 ---
 1. Fork The Repo
     <br>
@@ -56,7 +58,7 @@
 
 ## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href='https://mr-manul-official-web.vercel.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
+<a href='https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 ---
 
 `TO GET SESSION ID 👆`
