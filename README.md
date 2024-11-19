@@ -1,6 +1,6 @@
 <br>
 
-### 🇱🇰 𝐐𝐔𝐄𝐄𝐍 𝐊𝐄𝐍𝐙𝐈 𝐌𝐃
+### 🧚‍♀️ 𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃
 ### SETUP
 ---
 //========DO-NOT-CHANGE-ALIVE-MSG========
@@ -9,7 +9,7 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/shashikalanipuni05/mmmmmm/fork"><img title="QUEEN-KENZI-MD" src="https://img.shields.io/badge/FORK QUEEN-KENZI-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/kingmalvn/MIKU-MD/fork"><img title="QUEEN-MIKU-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ![forks](https://img.shields.io/github/forks/shashikalanipuni05/mmmmmm?label=Forks&style=social)
 
@@ -23,8 +23,8 @@
 <br>
 
   <p align="center">  
-  <a href="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
-    <img alt="queen-kenzi" height="200" src="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
+  <a href="https://c.top4top.io/p_3235wgt8w1.jpg">
+    <img alt="queen-miku" height="200" src="https://c.top4top.io/p_3235wgt8w1.jpg">
     
   < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -32,11 +32,11 @@
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com"><img title="QUEEN-KENZI Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com"><img title="QUEEN-MIKU Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
 ## Deploy to HEROKU ↓
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shashikalanipuni05/mmmmmm)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://queen-miku"kingmalvn/MIKU-MD")
 
 ## Deploy to RENDER ↓
 
@@ -50,7 +50,7 @@
 
 ---
 
-`UPLOAD creds.js FILE TO Kenzi_md FOLDER👆`
+`UPLOAD creds.js FILE TO Session FOLDER👆`
 ---
 
 
@@ -84,7 +84,7 @@ npm install
 npm start
 ```
 ---
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+CYBER+TECH+TEAM..)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+Malvin+TECH..)](https://git.io/typing-svg)
    
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=1.+Fork+This+Repo)](https://github.com/nipuna15)
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=2.+Scan+QR+Code+Or+Pair+code)](https://github.com/nipuna15)
@@ -135,17 +135,15 @@ jobs:
 
 
 ## CREDITS 
-<a href="https://wa.me/message/DNN5ZGDNMOH6K1"><img src="https://telegra.ph/file/08ce20a843b7650a296e7.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
+<a href="https://wa.me/message/263780934873"><img src="https://c.top4top.io/p_3235wgt8w1.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
 ---
 ### CREATED BY:
-1. ### Danu.Xz
-2. ### Manual Official
-3. ### Kalum.Xz
+1. ### Malvin King
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@danuxzz?si=__tcNbJtNcE6mJcN) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@malvintech2) 
  
  ### WHATSAPP CHANNLE 👇
- "https://whatsapp.com/channel/0029Va8f3smKWEKvPUzXQv34"
+ "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"
 
