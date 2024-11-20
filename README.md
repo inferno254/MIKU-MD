@@ -99,7 +99,9 @@ jobs:
 
 ## CREDITS 
 
-<a href="https://wa.me/message/BRDPXBM77ARZJ1" target="blank"><img align="center" src="https://files.catbox.moe/uxnee2.jpg" width="100" height="50" alt=" OWNER "/></a>
+<p align="left">
+<a href='https://wa.me/263714757857' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Malvin King-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+
 
 ---
 ### CREATED BY:
