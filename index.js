@@ -22,13 +22,13 @@ const prefix = '.'
 const ownerNumber = ['263780934873']
 
 //===================SESSION-AUTH============================
-if (!fs.existsSync(__dirname + '/session/creds.json')) {
+if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
-fs.writeFile(__dirname + '/session/creds.json', data, () => {
+fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
 console.log("Session downloaded ✅")
 })})}
 
@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting MIKU BOT ⏳️...");
+console.log("Connecting MIKU MD BOT ⏳️...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -59,7 +59,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('🕙 Installing')
+console.log('🧬 Installing')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `MIKU-MD connected successful ✅\n\nPREFIX: ${prefix}\n\n--------------------------------------------\n\n*─●●► 🫨Welcome Miku md whatsapp bot you can download video songs and various videos through this bot. Miku md owner is Malvin King.. It also gives you the ability to solve the new revolution in technology and technology problems and there is great potential here. This technology is also related to AI.*\n\n-------------------------------------------\n\n> ─●●► Always Be Happy..*\n\n*─●●► Dont use my script without giving credit*`;
+let up = `MIKU-MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/n5vvij.jpg` }, caption: up })
 
