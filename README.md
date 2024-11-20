@@ -26,37 +26,40 @@
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+
 ---
-#### Deploy To Replit
+
+**1.  PAIR CODE GET**
+    <br>
+
+<p align="left">
+<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+
+    
+---
+ **2.  Deploy To Replit**
 
 <a href="https://replit.com"><img title="QUEEN-MIKU Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
-## Deploy to HEROKU ↓
+**3. Deploy to HEROKU ↓**
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MIKU-MD)
 
-## Deploy to RENDER ↓
+ **4.  Deploy to RENDER ↓**
 
 <a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a>
 
 ---
 
-2. #### PAIR CODE GET
-    <br>
-## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href='https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
----
-
-`UPLOAD creds.js FILE TO SESSION FOLDER👆`
----
-
----
 
 
 ---
- ### WORKFLOW CODE
+**5. Deploy to GITHUB**
+
+  WORKFLOW CODE
  ```name: Node.js CI
 
 on:
