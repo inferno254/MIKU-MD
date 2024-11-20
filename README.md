@@ -1,4 +1,4 @@
- ** 🧚‍♀️ 𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃***
+ **🧚‍♀️ 𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃**
 
 
 </p> <p align="center">
@@ -20,10 +20,10 @@
 <br>
 
   <p align="center">  
-  <a href="https://c.top4top.io/p_3235wgt8w1.jpg">
-    <img alt="queen-miku" height="200" src="https://c.top4top.io/p_3235wgt8w1.jpg">
+  <a href="https://files.catbox.moe/n5vvij.jpg">
+    <img alt="queen-miku" height="200" src="https://files.catbox.moe/n5vvij.jpg">
     
-  < Loading...
+   Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ---
@@ -43,55 +43,18 @@
 
 2. #### PAIR CODE GET
     <br>
-<a href="https://replit.com/@danupaacedemy/Manul-Official-Whatsapp-Bot-Pair-Code"><img title="GET CREDS.JSON FILE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
+## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
+
+<a href='https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
 ---
 
 `UPLOAD creds.js FILE TO SESSION FOLDER👆`
 ---
 
-
-## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
-
-<a href='https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 ---
 
-`TO GET SESSION ID 👆`
----
 
- ### Termux Guide
-
- ```bash
-termux-setup-storage
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install python
-pkg install python2
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone Your Forked Github Url
-cd mmmmmm
-npm install
-npm start
-```
----
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+Malvin+King..)](https://git.io/typing-svg)
-   
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=1.+Fork+This+Repo)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=2.+Scan+QR+Code+Or+Pair+code)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=3.+Make+Heroku+&+Uffizzi+Deploy+Link+Your+own)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=4.+Add+App+Name+And+Deploy)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=5.+Watch+Your+Heroku+Log)](https://github.com/nipuna15)
-
-   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
-  
 ---
  ### WORKFLOW CODE
  ```name: Node.js CI
@@ -132,7 +95,9 @@ jobs:
 
 
 ## CREDITS 
-<a href="https://wa.me/message/263780934873"><img src="https://c.top4top.io/p_3235wgt8w1.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
+
+<a href="https://wa.me/message/BRDPXBM77ARZJ1" target="blank"><img align="center" src="https://files.catbox.moe/uxnee2.jpg" width="100" height="50" alt=" OWNER "/></a>
+
 ---
 ### CREATED BY:
 1. ### Malvin King 
@@ -142,5 +107,5 @@ jobs:
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@malvintech2) 
  
  ### WHATSAPP CHANNLE 👇
- "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv"
+ "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"
 
