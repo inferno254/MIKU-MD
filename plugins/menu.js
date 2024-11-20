@@ -1,26 +1,24 @@
 const {cmd , commands} = require('../command')
-const os = require("os")
-const {runtime} = require('../lib/functions')
 
 cmd({
     pattern: "menu",
-    alias: ["status","botinfo"],
-    desc: "check up time",
-    category: "main",
+    desc: "menu the bot",
+    category: "menu",
     react: "🧚‍♀️",
     filename: __filename
 },
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{ 
 
-let status =` ╭─────────────━┈⊷
-│*👾 ʙᴏᴛ ɴᴀᴍᴇ*: 𝙼𝙸𝙺𝚄 ᴍᴅ
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+
+let dec = `
+ ╭─────────────━┈⊷
+│*🧚‍♀️ ʙᴏᴛ ɴᴀᴍᴇ*: 𝙼𝙸𝙺𝚄 ᴍᴅ
 │*👨‍💻 ᴏᴡɴᴇʀ*: ᴍᴀʟᴠɪɴ ᴋɪɴɢ    
 │*👤 ɴᴜᴍʙᴇʀ*: 263780934873
-│*📟Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 │
 │*🧬Version*: 1.0.0
-│*💻 HOST* :  ${os.hostname()}
+│*💻 HOST* :  fv-az661-842
 │*💫 ᴘʀᴇғɪx:* .
 ╰─────────────━┈⊷ 
 
@@ -36,13 +34,14 @@ let status =` ╭─────────────━┈⊷
 ┃◆ .𝙿𝙻𝙰𝚈
 ┃◆ .𝙼𝙸𝙺𝚄
 ┃◆ .𝙵𝙰𝙲𝚃
-┃◆ .𝙿𝚛𝚘𝚖𝚘𝚝𝚎
-┃◆ .𝙳𝚎𝚖𝚘𝚝𝚎
+┃
 ╰━━━━━━━━━━━━━━━⪼
 
- © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
+
+ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
 `
-return reply(`${status}`)
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/n5vvij.jpg`},caption:dec},{quoted:mek});
+
 }catch(e){
 console.log(e)
 reply(`${e}`)
