@@ -5,12 +5,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "", //Add Your Session id
-ALIVE_IMG : process.env.ALIVE_IMG || "https://c.top4top.io/p_3235wgt8w1.jpg",
-ALIVE_MSG : process.env.ALIVE_MSG || "*🤖𝐇𝐞𝐲 𝐈'𝐦 🧚‍♀️𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃 💖 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭⚡*\n\n*🔔𝐈'𝐦 𝐀𝐥𝐢𝐯𝐞 𝐍𝐨𝐰🎠*\n\n*⚖️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ©мαℓνιи кιиg ``| 2024🤍*",
-AUTO_VOICE : process.env.AUTO_VOICE || "true",
-READ_CMD: process.env.READ_CMD || "false",
-MODE : process.env.MODE || "public",
-AUTO_BIO : process.env.AUTO_BIO || "true",    
+SESSION_ID: process.env.SESSION_ID || "9aMDBLRb#nixx_85Xa_uy4-KHPXbrA5AZeDOq2F3wsh8_BAOOJyE",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/n5vvij.jpg",
+SUDO_NB: process.env.SUDO_NB || "263780934873",
+MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+MODE: process.env.MODE || "public",
+AUTO_VOICE: "true"
 };
